@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# mine
+.mypy_cache
+_darcs
+_venv
+.ignore
+*~
+*.7z
+_*
