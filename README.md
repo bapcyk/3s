@@ -64,6 +64,9 @@ $name older "40 years" not q1.
 
 ```
 
+or `some with age > 20, < 40.` or `age union of > 20, < 40.` or `age intersect of > 20, < 40.`
+or `each with age > 20, < 40.`
+
 -------------------
 
 1: a has b, c.
